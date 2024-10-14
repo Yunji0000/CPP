@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/yunji/C++/C++/ch03/ch03_03_ex02.array'
+relocations:     []
+...
